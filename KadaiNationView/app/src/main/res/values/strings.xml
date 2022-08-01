@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KadaiNationView</string>
+    <string-array name="lv_menu">
+        <item>フィリピン</item>
+        <item>パラオ</item>
+        <item>ミクロネシア</item>
+        <item>マーシャル</item>
+        <item>キリバス</item>
+        <item>ナウル</item>
+        <item>パプアニューギニア</item>
+        <item>インドネシア</item>
+        <item>オーストラリア</item>
+        <item>ニュージーランド</item>
+        <item>ソロモン</item>
+        <item>ツバル</item>
+        <item>フィジー</item>
+        <item>トンガ</item>
+        <item>ザモア</item>
+    </string-array>
+</resources>
